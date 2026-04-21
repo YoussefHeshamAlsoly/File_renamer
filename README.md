@@ -1,6 +1,8 @@
 # File_renamer
+___
 ![](renamer.gif)
-A python script to recursively traverse through directories starting from a given path, to rename target files after their numbered parent directories.
+
+This is a simple python script to recursively traverse through directories starting from a given path, to rename target files after their _numbered_ parent directories.
 
 This is targeting files in the following structure:
 
